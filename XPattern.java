@@ -1,7 +1,7 @@
 import java.util.*;
 public class XPattern{
   public static void main(String[]args){
-    System.out.print("********X PATTERN********");
+    System.out.println("********X PATTERN********");
     Scanner sc=new Scanner(System.in);
     System.out.print("Enter the value of n to terminate:");
     int n=sc.nextInt();
