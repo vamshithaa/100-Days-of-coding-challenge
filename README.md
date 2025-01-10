@@ -7,5 +7,6 @@
   <p>Printing the pattern x using * </p>
   <li> <b>Coding-Challenge #Day 3</b></li>
   <p>Bubble sort </p>
+  <p>Selection sort</p>
   </ul>
 </html>
