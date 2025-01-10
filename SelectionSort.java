@@ -1,5 +1,5 @@
 import java.util.*;
-public class SelectionSort{
+public class Main{
   public static void main(String[]args){
     Scanner sc=new Scanner(System.in);
     System.out.println("Enter the array size:");
@@ -11,7 +11,7 @@ public class SelectionSort{
     }
     System.out.print("Array before sorting:");
     for(int i=0; i<n;i++){
-      System.out.print(a[i]);
+      System.out.print(a[i]+" ");
     }
      System.out.println();
     System.out.print("Array after sorting:");
@@ -26,6 +26,10 @@ public class SelectionSort{
         a[j]=temp;
       }
     }
+    for(int i=0; i<n;i++){
+        System.out.print(a[i]+" ");
+    }
+  
   }
 }
       
