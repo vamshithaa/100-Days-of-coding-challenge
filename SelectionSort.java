@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main{
+public class SS{
   public static void main(String[]args){
     Scanner sc=new Scanner(System.in);
     System.out.println("Enter the array size:");
@@ -17,14 +17,15 @@ public class Main{
     System.out.print("Array after sorting:");
     for(int i=0;i<n;i++){
       int smallest=i;
-      for(int j=0; j<n;j++){
+      for(int j=i+1; j<n;j++){
         if(a[smallest]>a[j]){
           smallest=j;
         }
+}
         int temp=a[smallest];
-        a[smallest]=a[j];
-        a[j]=temp;
-      }
+        a[smallest]=a[i];
+        a[i]=temp;
+      
     }
     for(int i=0; i<n;i++){
         System.out.print(a[i]+" ");
