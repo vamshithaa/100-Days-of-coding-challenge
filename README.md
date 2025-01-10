@@ -5,5 +5,7 @@
   <p>Finding the sum of the digits of a number</p>
   <li> <b>Coding-Challenge #Day 2</b></li>
   <p>Printing the pattern x using * </p>
+  <li> <b>Coding-Challenge #Day 3</b></li>
+  <p>Bubble sort </p>
   </ul>
 </html>
