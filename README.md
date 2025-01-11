@@ -9,6 +9,6 @@
   <p>Bubble sort </p>
   <p>Selection sort</p>
     <li> <b>Coding-Challenge #Day 4</b></li>
-  <p>Insertin sorting</p>
+  <p>Insertion sorting</p>
   </ul>
 </html>
