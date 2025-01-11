@@ -10,5 +10,6 @@
   <p>Selection sort</p>
     <li> <b>Coding-Challenge #Day 4</b></li>
   <p>Insertion sorting</p>
+    <p>Hallow Square pattern</p>
   </ul>
 </html>
