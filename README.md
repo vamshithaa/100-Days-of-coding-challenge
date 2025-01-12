@@ -11,5 +11,7 @@
     <li> <b>Coding-Challenge #Day 4</b></li>
   <p>Insertion sorting</p>
     <p>Hallow Square pattern</p>
+     <li> <b>Coding-Challenge #Day 5</b></li>
+  <p>Printing a slant square pattern</p>
   </ul>
 </html>
