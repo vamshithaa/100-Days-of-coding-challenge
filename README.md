@@ -13,5 +13,6 @@
     <p>Hallow Square pattern</p>
      <li> <b>Coding-Challenge #Day 5</b></li>
   <p>Printing a slant square pattern</p>
+    <p>Number Pyramid pattern</p>
   </ul>
 </html>
