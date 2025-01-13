@@ -17,5 +17,6 @@
     <li> <b>Coding-Challenge #Day 6</b></li>
   <p>Floyd's triangle pattern</p>
     <p>Zero one triangle pattern</p>
+    <p>Butterfly Pattern</p>
   </ul>
 </html>
