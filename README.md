@@ -18,5 +18,7 @@
   <p>Floyd's triangle pattern</p>
     <p>Zero one triangle pattern</p>
     <p>Butterfly Pattern</p>
+     <li> <b>Coding-Challenge #Day 7</b></li>
+  <p>Diamond pattern</p>
   </ul>
 </html>
