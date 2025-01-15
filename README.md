@@ -21,5 +21,7 @@
      <li> <b>Coding-Challenge #Day 7</b></li>
   <p>Diamond pattern</p>
     <p>Hollow Butterfly Pattern</p>
+     <li> <b>Coding-Challenge #Day 8</b></li>
+  <p>Printing a slant Hollow square pattern</p>
   </ul>
 </html>
