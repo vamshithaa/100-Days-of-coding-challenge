@@ -23,6 +23,6 @@
     <p>Hollow Butterfly Pattern</p>
      <li> <b>Coding-Challenge #Day 8</b></li>
   <p>Printing a slant Hollow square pattern</p>
-    <p><b>there's some error in the code have to debug</b></p>
+    <p><b>there's some error in the code have to debug, exam is going on need some time</b></p>
   </ul>
 </html>
