@@ -23,7 +23,7 @@
     <p>Hollow Butterfly Pattern</p>
      <li> <b>Coding-Challenge #Day 8</b></li>
   <p>Printing a slant Hollow square pattern</p>
-    <p><b>there's some error in the code have to debug array to print names</b></p>
+    <p>Program to print the names in the array</p>
     <li> <b>Coding-Challenge #Day 9</b></li>
   <p>Finding the target element in the 2D array</p>
     
