@@ -27,7 +27,8 @@
     <li> <b>Coding-Challenge #Day 9</b></li>
   <p>Finding the target element in the 2D array</p>
    <li> <b>Coding-Challenge #Day 10</b></li>
-  <p>Printing reverse numbers using reccursion</p>
+  <p>Reversing the numbers using reccursion</p>
+  <p>Printing numbers using reccursion</p>
     
   </ul>
 </html>
