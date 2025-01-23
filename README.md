@@ -31,5 +31,6 @@
   <p>Printing numbers using reccursion</p>
      <li> <b>Coding-Challenge #Day 11</b></li>
   <p>Finding the sum of given natural numbers using reccursion</p>
+    <p>Finding the factorial of the number using Reccursion</p>
   </ul>
 </html>
