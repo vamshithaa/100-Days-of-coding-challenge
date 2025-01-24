@@ -35,5 +35,6 @@
     <li><b>Coding-Challenge #Day 12</b></li>
       <p>Printing the Fibonacci series using Reccursion</p>
     <p>Calculating the power of a given number using recurssion</p>
+    <p>Print x^n (Stack height=logn)</p>
   </ul>
 </html>
