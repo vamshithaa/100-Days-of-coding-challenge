@@ -32,5 +32,7 @@
      <li> <b>Coding-Challenge #Day 11</b></li>
   <p>Finding the sum of given natural numbers using reccursion</p>
     <p>Finding the factorial of the number using Reccursion</p>
+    <li><b>Coding-Challenge #Day 12</b></li>
+      <p>Printing the Fibonacci series using Reccursion</p>
   </ul>
 </html>
