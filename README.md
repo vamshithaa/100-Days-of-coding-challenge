@@ -38,5 +38,6 @@
     <p>Print x^n (Stack height=logn)</p>
     <li><b>Coding-Challenge #Day 13</b></li>
       <p>Solving Tower's of Hanoi problem using Reccursion</p>
+    <p>Reversing the given string using Reccursion</p>
   </ul>
 </html>
