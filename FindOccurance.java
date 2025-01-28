@@ -22,6 +22,7 @@ public static void Find(String str, int indx, char element){
   public static void  main(String[]args){
     Scanner sc=new Scanner(System.in);
     System.out.println("****Finding the first and last occurance of an element in the given string****"); 
+    System.out.println("(NOTE: if fisrt and last is = -1 then that particular element is not present in the string)");
     System.out.println("Enter the string:");
     String str=sc.nextLine();
     System.out.println("Enter the element to find its 1st and last occurance from the given string:");
