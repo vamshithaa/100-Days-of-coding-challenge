@@ -41,5 +41,7 @@
     <p>Reversing the given string using Reccursion</p>
     <li><b>Coding-Challenge #Day 14</b></li>
       <p>Finding the 1st and last occurance of an element in a given string using Reccursion</p>
+     <li><b>Coding-Challenge #Day 15</b></li>
+      <p>To print the subsequence of the given pattern using Reccursion</p>
   </ul>
 </html>
