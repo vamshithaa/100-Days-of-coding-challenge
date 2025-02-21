@@ -4,15 +4,15 @@ public class fittile{
     if(n==m){
       return 2;
     }
-    if(n>m){
+    if(n<m){
       return 1;
     }
   int vertical=placetile(n-m,m);
   int horizontal=placetile(n-1,m);
-  return vertical+ horizontal;
+  return vertical+horizontal;
   }
   public static void main(String[]args){
-    int m=2,n=4;
+    int n=4,m=2;
     System.out.println(placetile(n,m));
   }
 }
