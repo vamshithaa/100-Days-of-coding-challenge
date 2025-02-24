@@ -52,5 +52,7 @@
     <li><b>Coding-Challenge #Day 19</b></li>
       <p>To print the number of ways of arrangement of 1*m title on a m*n area using Reccursion</p>
       <p>To print the number of ways to the call guests to a party as a pair or single person for a group of guests using recurssion</p>
+     <li><b>Coding-Challenge #Day 20</b></li>
+      <p>To print the Armstrong number </p>
   </ul>
 </html>
