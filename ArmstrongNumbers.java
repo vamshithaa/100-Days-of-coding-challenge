@@ -1,23 +1,30 @@
+import java.util.Scanner;
 public class ArmstrongNumbers {
     public static void main(String[] args) {
-        int num, rem, limit = 1000, sum;
-
-        System.out.println("Armstrong numbers from 1 to 1000:");
-
+        Scanner scanner = new Scanner(System.in);
+        int num, rem, sum, limit;
+        System.out.print("Enter the limit: ");
+        limit = scanner.nextInt();
+        System.out.println("Armstrong numbers from 1 to " + limit + ":");
         for (int i = 1; i <= limit; i++) {
             num = i;
-            sum = 0; // Reset sum for each number
-
-            while (num > 0) {
-                rem = num % 10;
-                sum += (rem * rem * rem);
-                num /= 10;
+            sum = 0;
+            int temp = num, digits = 0;
+            while (temp > 0) { 
+                temp /= 10;
+                digits++;
             }
-
+            temp = num;
+            while (temp > 0) {
+                rem = temp % 10;
+                sum += Math.pow(rem, digits); 
+                temp /= 10;
+            }
             if (sum == i) {
                 System.out.print(i + " ");
             }
         }
         System.out.println(); 
+        scanner.close();
     }
 }
